@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 -->
 
 <h2 align="center">Hello there! My name is Shalin.</h2> 
-<p align="center">A proficient and ardent Undergraduated individual with proven project management skills, knowledge and
+<p align="center">A proficient and ardent individual with proven project management skills, knowledge and
 capabilities. Like to take initiative, work with the team and seek out new challenges. I am currently passionate about Software development, Data Analysis, Machine Learning, Cloud Computing and Deployment.
 </p>
 <!--<h3 align="center"> Interested in Collaborating or Donating/Sponsering My Projects? </h3>
