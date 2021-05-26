@@ -40,7 +40,7 @@ I am currently passionate about Software development, Data Analysis, Machine Lea
 -->
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shalinkalavadia" alt="shalinkalavadia" /></a> </p>
 
-<p align="center"> <a href="https://twitter.com/Shalin_RK" target="blank"><img src="https://img.shields.io/twitter/follow/shalinkalavadia?logo=twitter&style=for-the-badge" alt="shalinkalavadia" /></a> </p>
+<p align="center"> <a href="https://twitter.com/Shalin_RK" target="blank"><img src="https://img.shields.io/twitter/follow/Shalin_RK?logo=twitter&style=for-the-badge" alt="Shalin_RK" /></a> </p>
 <!--<p align="center">I'm a Shalin Kalavadia.
 A proficient and ardent individual with proven project management skills, knowledge and
 capabilities. Like to take initiative, work with the team and seek out new challenges.
