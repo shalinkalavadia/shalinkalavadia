@@ -40,7 +40,7 @@ I am currently passionate about Software development, Data Analysis, Machine Lea
 -->
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shalinkalavadia" alt="shalinkalavadia" /></a> </p>
 
-<p align="center"> <a href="https://www.linkedin.com/in/shalin-karavadia/" target="blank"><img src="https://img.shields.io/linkedin/follow/shalinkalavadia?logo=linkedin&style=for-the-badge" alt="shalinkalavadia" /></a> </p>
+<p align="center"> <a href="https://www.linkedin.com/in/shalin-karavadia/" target="blank"><img src="https://www.google.com/search?q=linkedin+image&rlz=1C1CHBF_enIN834IN834&sxsrf=ALeKk00tdAAVMRAaEvA9U9eSQ8WT42QwbQ:1622015900134&tbm=isch&source=iu&ictx=1&fir=03RRnUGK0_oRmM%252Cy3Cla4aYzYIkAM%252C_&vet=1&usg=AI4_-kRgSRNLIOL0wFD99_5BmZ4ImE7jDw&sa=X&ved=2ahUKEwjkmrCM8ObwAhX5zTgGHVOqC64Q9QF6BAgNEAE&biw=1536&bih=666#imgrc=nYVyeltF3iZrnM" alt="shalinkalavadia" /></a> </p>
 <!--<p align="center">I'm a Shalin Kalavadia.
 A proficient and ardent individual with proven project management skills, knowledge and
 capabilities. Like to take initiative, work with the team and seek out new challenges.
